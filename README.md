@@ -7,8 +7,6 @@ A mini React demo app that implements Google Analytics using withTracker and Rea
 2. Run `npm install`
 3. Run `npm start` and point your browser to `localhost:3000`
 
-=======
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
