@@ -1,5 +1,12 @@
-# react-ga-demo
+
 A mini React demo app that implements Google Analytics using withTracker and React router.
+=======
+
+## Quick start
+1. Clone this project and replace `'UA-0000000-0'` in withTracker.js with your own Google Analytics ID.
+2. Run `npm install`
+3. Run `npm start` and point your browser to `localhost:3000`
+
 =======
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
